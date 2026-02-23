@@ -130,16 +130,16 @@ salahcli next
 
 The config file lives at `~/.salahcli/config.json` and supports:
 
-- **Latitude / Longitude** — Set manually or auto-detected on `init`
-- **Calculation Method** — Choose from the methods listed above
-- **Madhab** — Affects Asr calculation (Shafi/Hanafi)
-- **Time Format** — 12-hour or 24-hour
+- **Latitude / Longitude**: Set manually or auto-detected on `init`
+- **Calculation Method**: Choose from the methods listed above
+- **Madhab**: Affects Asr calculation (Shafi/Hanafi)
+- **Time Format**: 12-hour or 24-hour
 
 ---
 
 ## Philosophy
 
-Prayer times should be accurate, private, and available offline — directly from your terminal.
+Prayer times should be accurate, private, and available offline directly from your terminal.
 
 ---
 
